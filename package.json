@@ -9,12 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^12.1.6-canary.6",
+    "next": "12.1.7-canary.42",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },
   "devDependencies": {
-    "eslint": "8.14.0",
-    "eslint-config-next": "12.1.5"
+    "eslint": "8.14.0"
   }
 }
